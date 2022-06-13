@@ -2,15 +2,15 @@
 A simple python app for getting weather information based on geolocation.
 
 ## Installation
-'''
+```
 git clone
 pip install requirement.txt
-'''
+```
 If this does not work, then maybe python2 is installed in the system or none. Try installing with oython3 3 and use ```pip3``` instead of ```pip```.
 # How to use
 The app is straightforward to use. Just run the ```main.py``` file, and you are good to go. If you know your current location, then you may enter it. If you don't know your current location, don't worry, the program will auto-detect the current geolocation and display the weather information for it.
 ### If location is known
-'''
+```
 python3 main.py
 Enter location:kolkata
 Weather for: Kolkata, West Bengal
@@ -29,9 +29,9 @@ Min temperature: 29°C
 Description: Isolated thunderstorms
 Max temperature: 34°C
 Min temperature: 29°C 
-'''
+```
 ### If location is not known
-'''
+```
 Enter location:
 Current location detected: Kolkata
 Weather for: Kolkata, ######
@@ -50,5 +50,4 @@ Min temperature: 29°C
 Description: Isolated thunderstorms
 Max temperature: 33°C
 Min temperature: 29°C
-
-'''
+```
