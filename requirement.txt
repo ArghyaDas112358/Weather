@@ -1,0 +1,7 @@
+from bs4 import BeautifulSoup
+
+
+beautifulsoup4
+geocoder
+googletrans==3.1.0a0
+requests_html
