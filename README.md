@@ -5,7 +5,7 @@ A simple python app for getting weather information based on geolocation.
 ```
 git clone https://github.com/ArghyaDas112358/Weather.git
 cd Weather
-pip install requirement.txt
+pip install -r requirement.txt
 ```
 If this does not work, then maybe python2 is installed in the system or none. Try installing with oython3 3 and use ```pip3``` instead of ```pip```.
 # How to use
